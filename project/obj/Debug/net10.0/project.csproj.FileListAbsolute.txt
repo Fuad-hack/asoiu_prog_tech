@@ -1,0 +1,14 @@
+/Users/fuadkhanaliyev/Documents/ADNSU/4-cü sem/program tech/project/obj/Debug/net10.0/project.GeneratedMSBuildEditorConfig.editorconfig
+/Users/fuadkhanaliyev/Documents/ADNSU/4-cü sem/program tech/project/obj/Debug/net10.0/project.AssemblyInfoInputs.cache
+/Users/fuadkhanaliyev/Documents/ADNSU/4-cü sem/program tech/project/obj/Debug/net10.0/project.AssemblyInfo.cs
+/Users/fuadkhanaliyev/Documents/ADNSU/4-cü sem/program tech/project/obj/Debug/net10.0/project.csproj.CoreCompileInputs.cache
+/Users/fuadkhanaliyev/Documents/ADNSU/4-cü sem/program tech/project/bin/Debug/net10.0/project
+/Users/fuadkhanaliyev/Documents/ADNSU/4-cü sem/program tech/project/bin/Debug/net10.0/project.deps.json
+/Users/fuadkhanaliyev/Documents/ADNSU/4-cü sem/program tech/project/bin/Debug/net10.0/project.runtimeconfig.json
+/Users/fuadkhanaliyev/Documents/ADNSU/4-cü sem/program tech/project/bin/Debug/net10.0/project.dll
+/Users/fuadkhanaliyev/Documents/ADNSU/4-cü sem/program tech/project/bin/Debug/net10.0/project.pdb
+/Users/fuadkhanaliyev/Documents/ADNSU/4-cü sem/program tech/project/obj/Debug/net10.0/project.dll
+/Users/fuadkhanaliyev/Documents/ADNSU/4-cü sem/program tech/project/obj/Debug/net10.0/refint/project.dll
+/Users/fuadkhanaliyev/Documents/ADNSU/4-cü sem/program tech/project/obj/Debug/net10.0/project.pdb
+/Users/fuadkhanaliyev/Documents/ADNSU/4-cü sem/program tech/project/obj/Debug/net10.0/project.genruntimeconfig.cache
+/Users/fuadkhanaliyev/Documents/ADNSU/4-cü sem/program tech/project/obj/Debug/net10.0/ref/project.dll
