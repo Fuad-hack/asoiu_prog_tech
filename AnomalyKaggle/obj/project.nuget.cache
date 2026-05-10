@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "ijHa5mumWL4=",
+  "success": true,
+  "projectFilePath": "/Users/fuadkhanaliyev/asoiu_prog_tech/AnomalyKaggle/project_kaggle.csproj",
+  "expectedPackageFiles": [
+    "/Users/fuadkhanaliyev/.nuget/packages/csvhelper/30.0.0/csvhelper.30.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
